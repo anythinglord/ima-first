@@ -2,12 +2,11 @@
 
 ## CHANGELOG
 
-### V1.12.7
-- Add loading component in log_in view
-- Changes in user view
-- Generate alternatives 
-- put messages in user and services views
-
+### V2.0.5
+- verify data in register form
+- Add Backdrops in user & service view
+- Visual changes in all components & views
+- Add snackbars in user and services views
 
 ### V1.8.2
 - Dialog in services and user views
