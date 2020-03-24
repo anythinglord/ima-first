@@ -2,6 +2,13 @@
 
 ## CHANGELOG
 
+### V2.5.15
+- Routes Protected
+- Changes in menu(panel,logOut)
+- fix errors in views
+- divide views (user and services)
+- create new view (forbidden access)
+
 ### V2.0.5
 - verify data in register form
 - Add Backdrops in user & service view
