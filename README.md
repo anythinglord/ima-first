@@ -2,6 +2,11 @@
 
 ## CHANGELOG
 
+### V2.8.10
+- Edit service menu
+- changes in user drawer
+- fix errors in alternative information
+
 ### V2.5.15
 - Routes Protected
 - Changes in menu(panel,logOut)
