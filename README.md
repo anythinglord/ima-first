@@ -2,10 +2,11 @@
 
 ## CHANGELOG
 
-### V2.8.10
+### V2.9.10
 - Edit service menu
 - changes in user drawer
 - fix errors in alternative information
+- fix error in listCities(select the same city to the origin and destination)
 
 ### V2.5.15
 - Routes Protected
