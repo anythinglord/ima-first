@@ -2,6 +2,10 @@
 
 ## CHANGELOG
 
+
+### V2.10.14
+- fields validation improved in sign_up
+
 ### V2.9.10
 - Edit service menu
 - changes in user drawer
